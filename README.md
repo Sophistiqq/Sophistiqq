@@ -6,7 +6,7 @@
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophistiqq&layout=compact&show_icons=true&theme=material-palenight" />
 </a>
 
---
+---
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Sophistiqq&theme=material-palenight&mode=weekly" />
