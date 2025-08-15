@@ -108,8 +108,6 @@ const roi: Developer = {
 <img width="49%" src="https://streak-stats.demolab.com?user=Sophistiqq&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=400" alt="GitHub Streak" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sophistiqq&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophistiqq&layout=donut-vertical&theme=radical&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-
 </div>
 
 ---
