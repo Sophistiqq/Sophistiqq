@@ -4,13 +4,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Full-Stack%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│  🌐 Web • 📱 Mobile • 💻 Desktop • 🔌 IoT • 🌍 Networks    │
-│                                                             │
-│  "Building the future, one commit at a time"               │
-└─────────────────────────────────────────────────────────────┘
-```
+![Specialties](https://img.shields.io/badge/🌐%20Web%20•%20📱%20Mobile%20•%20💻%20Desktop%20•%20🔌%20IoT%20•%20🌍%20Networks-FF6B6B?style=for-the-badge&labelColor=2D3748)
+
+> **"Building the future, one commit at a time"**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+Engineer+%7C+Hardware+Enthusiast;Clean+Code+%E2%9D%A4%EF%B8%8F+Scalable+Architecture;From+Microcontrollers+to+Cloud+Infrastructure;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
@@ -54,67 +50,54 @@ const roi: Developer = {
 
 ## ⚡ **SKILL MATRIX**
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="25%">
 
-### 🖥️ **FRONTEND UNIVERSE**
-```yaml
-core:
-  - HTML5/CSS3: ████████████ 100%
-  - JavaScript: ███████████▓ 95%
-  - TypeScript: ██████████▓░ 90%
-
-frameworks:
-  - Svelte/Kit: ███████████▓ 95%
-  - React: ████████▓░░░ 80%
-
-styling:
-  - Tailwind: ██████████▓░ 90%
-  - SCSS: ████████▓░░░ 80%
-```
-
-### 🔧 **BACKEND ARSENAL**
-```yaml
-runtime:
-  - Node.js: ███████████▓ 95%
-  - Java: ████████░░░░ 75%
-
-frameworks:
-  - Express: ██████████▓░ 90%
-  - ElysiaJS: ████████▓░░░ 80%
-  - ESP.NET: ███████░░░░░ 70%
-```
+### 🖥️ **FRONTEND**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="25%">
 
-### 🗄️ **DATA LAYER**
-```yaml
-sql:
-  - MySQL: ██████████░░ 85%
-  - PostgreSQL: ███████░░░░░ 70%
+### 🔧 **BACKEND**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![ElysiaJS](https://img.shields.io/badge/ElysiaJS-8B5CF6?style=flat-square&logo=bun&logoColor=white)
+![ESP.NET](https://img.shields.io/badge/ESP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-nosql:
-  - MongoDB: ████████▓░░░ 80%
-  - Redis: ███████░░░░░ 70%
-```
+</td>
+<td valign="top" width="25%">
+
+### 🗄️ **DATABASE**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
 
 ### 🌐 **INFRASTRUCTURE**
-```yaml
-networking:
-  - TCP/IP Config: ████████▓░░░ 80%
-  - Network Setup: ████████░░░░ 75%
-  - System Admin: ███████░░░░░ 70%
-
-hardware:
-  - ESP32/Arduino: ███████████▓ 95%
-  - Embedded Systems: ████████▓░░░ 80%
-```
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
