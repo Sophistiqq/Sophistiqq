@@ -6,39 +6,47 @@
 
 ## 🚀 About Me
 
-**Full-stack developer** with a passion for clean code, responsive UI, and low-level control. I build for **web**, **desktop**, **mobile**, and sometimes **IoT** when things get interesting.
+**Full-stack developer** with a passion for clean code, responsive UI, and low-level control. I build for **web**, **desktop**, **mobile**, **network infrastructure**, and sometimes **IoT** when things get interesting.
 
 - 🔭 Currently working on full-stack applications with modern web technologies
 - 🌱 Always learning and exploring new technologies
+- 🌐 Experience with network infrastructure and system configurations
 - ⚡ Fun fact: I love diving into microcontrollers and custom hardware logic
-- 💬 Ask me about JavaScript, Svelte, or ESP32 projects!
+- 💬 Ask me about JavaScript, Svelte, ESP32 projects, or network setups!
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frontend
+### 🎨 Frontend Development
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white)
 
-### Backend
+### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![ElysiaJS](https://img.shields.io/badge/ElysiaJS-000000?style=for-the-badge&logo=elysia&logoColor=white)
+![ESP.NET](https://img.shields.io/badge/ESP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Databases
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Hardware & IoT
+### 🔧 Hardware & IoT
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+### 🌐 Network & Infrastructure
+![Network Config](https://img.shields.io/badge/Network_Config-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-FF6B35?style=for-the-badge&logo=ubuntu&logoColor=white)
+![System Admin](https://img.shields.io/badge/System_Admin-4285F4?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
 
