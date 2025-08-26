@@ -39,7 +39,6 @@ const roi: Developer = {
 
 | **Metric** | **Value** |
 |------------|-----------|
-| 🔥 **Coding Streak** | ![Streak](https://img.shields.io/badge/dynamic/json?color=ff6b6b&label=%20&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3DSophistiqq%26type%3Djson&style=flat-square&logo=fire) |
 | 💻 **Languages** | ![Languages](https://img.shields.io/badge/6+-languages-blue?style=flat-square&logo=code) |
 | 🏆 **Projects** | ![Repos](https://img.shields.io/badge/dynamic/json?color=green&label=%20&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSophistiqq&style=flat-square&logo=github&suffix=%20repos) |
 | ⭐ **Total Stars** | ![Stars](https://img.shields.io/github/stars/Sophistiqq?style=flat-square&logo=star&color=yellow) |
@@ -105,7 +104,6 @@ const roi: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Sophistiqq&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=400" alt="GitHub Streak" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sophistiqq&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 </div>
