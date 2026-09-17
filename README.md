@@ -1,30 +1,38 @@
 # Roi Borromeo
 
-Full-Stack Developer building web, mobile, and IoT solutions.
+Full-Stack Developer focused on practical web applications, workflow automation, and self-hosted services.
 
-## What I Do
+- **Portfolio:** [sophistiqq.github.io/Portfolio](https://sophistiqq.github.io/Portfolio/)
 
-I work across the full stack—from frontend interfaces to backend systems, databases, and hardware. My focus is on writing clean, scalable code that solves real problems.
+## About Me
 
-**Current interests:** Modern web frameworks, ESP32/IoT projects, and network infrastructure.
+I build web applications with Svelte, TypeScript, and ElysiaJS. At work, I maintain business applications using C#/.NET and PostgreSQL, working on reports, data exports, and improvements to existing systems.
 
-## Tech Stack
+Beyond application development, I run Docker services on Linux and work on reverse proxies, backups, and internal networking. I enjoy understanding how applications work—from the interface to the server they run on.
 
-**Frontend:** JavaScript, TypeScript, Svelte, SvelteKit  
-**Backend:** Node.js, Java, Express, ElysiaJS  
-**Database:** MySQL, PostgreSQL, MongoDB, Redis  
-**Hardware & Systems:** ESP32, Arduino, Linux, Networking
+## What I Work On
 
-## Projects
+* **Web applications:** User interfaces, backend APIs, authentication, and databases.
+* **Automation:** Scripts and n8n workflows that reduce repetitive tasks.
+* **Self-hosting:** Deploying and maintaining applications with Docker, Linux, and Caddy.
+* **Business systems:** Maintaining existing software and improving everyday workflows.
 
-Check out my repositories to see what I'm working on. I'm particularly interested in projects that bridge software and hardware.
+## Tools I Use
+
+**Frontend:** TypeScript, JavaScript, Svelte, SvelteKit
+**Backend:** ElysiaJS, Bun, C#/.NET, Entity Framework Core
+**Databases:** PostgreSQL, MySQL, Prisma
+**Infrastructure & Automation:** Linux, Docker Compose, Caddy, Tailscale, n8n, Bash
+**Version Control:** Git, GitHub
+
+## Current Focus
+
+Building maintainable applications, improving deployment and backup workflows, and strengthening my software design skills through hands-on projects.
+
+Browse my repositories to see what I’m building and learning.
 
 ## Get in Touch
 
-- **Email:** roi.for.work@gmail.com
-- **Instagram:** [@sophistiqq](https://instagram.com/sophistiqq)
-- **Facebook:** [PIMD.xD](https://facebook.com/PIMD.xD)
-
----
-
-*Always learning, always building.*
+* **Email:** [roi.for.work@gmail.com](mailto:roi.for.work@gmail.com)
+* **Instagram:** [@sophistiqq](https://instagram.com/sophistiqq)
+* **Facebook:** [PIMD.xD](https://facebook.com/PIMD.xD)
