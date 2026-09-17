@@ -2,7 +2,7 @@
 
 Full-Stack Developer focused on practical web applications, workflow automation, and self-hosted services.
 
-- **Portfolio:** [sophistiqq.github.io/Portfolio](https://sophistiqq.github.io/Portfolio/)
+**Portfolio:** [sophistiqq.github.io/Portfolio](https://sophistiqq.github.io/Portfolio/)
 
 ## About Me
 
