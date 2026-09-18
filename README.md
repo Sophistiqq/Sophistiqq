@@ -19,11 +19,11 @@ Beyond application development, I run Docker services on Linux and work on rever
 
 ## Tools I Use
 
-**Frontend:** TypeScript, JavaScript, Svelte, SvelteKit
-**Backend:** ElysiaJS, Bun, C#/.NET, Entity Framework Core
-**Databases:** PostgreSQL, MySQL, Prisma
-**Infrastructure & Automation:** Linux, Docker Compose, Caddy, Tailscale, n8n, Bash
-**Version Control:** Git, GitHub
+- **Frontend:** TypeScript, JavaScript, Svelte, SvelteKit
+- **Backend:** ElysiaJS, Bun, C#/.NET, Entity Framework Core
+- **Databases:** PostgreSQL, MySQL, Prisma
+- **Infrastructure & Automation:** Linux, Docker Compose, Caddy, Tailscale, n8n, Bash
+- **Version Control:** Git, GitHub
 
 ## Current Focus
 
